@@ -53,6 +53,7 @@ export const PROJECTS = [
     description:
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
     technologies: ["Thymeleaf", "Bootstrap", "Spring Boot"],
+    url: "https://student-management-fcys.onrender.com/",
   },
   {
     title: "Employee Management",
@@ -60,6 +61,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["Thymeleaf", "Bootstrap", "Spring Boot"],
+    url: "https://employee-management-1erf.onrender.com",
   },
   {
     title: "Blogging Platform",
