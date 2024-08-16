@@ -63,19 +63,19 @@ export const PROJECTS = [
     technologies: ["Thymeleaf", "Bootstrap", "Spring Boot"],
     url: "https://employee-management-1erf.onrender.com",
   },
-  {
-    title: "Blogging Platform",
-    image: project4,
-    description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: [
-      "Thymeleaf",
-      "Bootstrap",
-      "Spring Boot",
-      "PostgreSQL",
-      "React",
-    ],
-  },
+ // {
+  //   title: "Blogging Platform",
+  //   image: project4,
+  //   description:
+  //     "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+  //   technologies: [
+  //     "Thymeleaf",
+  //     "Bootstrap",
+  //     "Spring Boot",
+  //     "PostgreSQL",
+  //     "React",
+  //   ],
+  // },
 ];
 
 export const CONTACT = {
